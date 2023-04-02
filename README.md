@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomikagithub&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomikagithub" /> </p>
 
+- 🔭 I’m currently working on **portfolio website**
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **full stack**
